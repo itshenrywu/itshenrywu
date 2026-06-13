@@ -1,7 +1,21 @@
 # Hi, I'm Henry
-目前在做遊戲的後端工程師，主要使用語言是 PHP。平常也喜歡開發一些全端的小專案，不過公開的 Repo 都只有前端 XD
 
-## 聯絡我
+Game backend engineer / system engineer
+
+## Technical skills
+ 
+- **Backend**: PHP, Node.js, Perl
+- **Frontend**: Vue.js
+- **Databases**: MySQL, MongoDB
+- **DB Architecture**: MySQL Group Replication, Replica/Slave Replication
+- **Caching**: Memcached, Redis
+- **Cloud**: AWS (CloudFront, Route 53, VPC, ELB, EC2)
+- **Containers & Orchestration**: Docker, Kubernetes
+- **Web & Networking**: Nginx, F5 Load Balancer
+- **Monitoring**: Grafana, Prometheus
+- **CI/CD**: GitHub Actions, GitLab CI
+
+## Contact me
 <p align="left">
 <a href="https://instagram.com/itshenrywu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itshenrywu" height="30" width="40" /></a>
 </p>
